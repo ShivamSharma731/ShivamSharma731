@@ -2,8 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/jaypavasiya">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Java%20|%20JavaScript%20|%20Node.js%20|%20Express%20|%20React%20|%20Flutter%20|%20Next.js%20|%20TypeScript&center=true&width=700&height=50" alt="Shivam's Tech Skills">
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Java%20|%20JavaScript%20|%20MERN%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <hr/>

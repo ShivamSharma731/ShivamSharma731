@@ -48,7 +48,7 @@ I’m a web developer with a keen interest in MERN stack technologies. I enjoy c
 	<a href="www.linkedin.com/in/shivam-sharma-507baa284"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 	<a href="https://twitter.com/Shivam7314"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
 	
-	</p>
+</p>
 
 ----
 

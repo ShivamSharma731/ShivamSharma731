@@ -1,15 +1,14 @@
 
 
-<h1 align="center">Hi , I'm Jay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Shivam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Web Developer;Java%20|%20JavaScript%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <!-- I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. -->
 
 <h4 align="center">
-I'm a Front End Developer based in India 🙏, I am passionate about open-source, coding, and web technologies❤️. <br />
-	Besides my job, I like to create and contribute to open source projects. It helps me learn a lot and grow as a developer while also supporting other open source projects.
+I’m a web developer with a keen interest in MERN stack technologies. I enjoy creating engaging and user-friendly web applications. Always eager to explore new technologies, I’m currently diving deep into data structures and algorithms using Java to sharpen my problem-solving skills and build efficient solutions.<br><br>Feel free to explore my repositories to see my projects and coding journey.
 </h4>
 <br>
 <!--<div align="center">
@@ -62,6 +61,4 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 </p>
 
 ----
-Credit: [jaypavasiya](https://github.com/jaypavasiya)
 
-Last Edited on: 04/15/2022

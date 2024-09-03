@@ -28,8 +28,7 @@
 <br>
 <hr/>
 
-## ⚡ Recent GitHub Activity
-<a href="https://github.com/ShivamSharma731"><img alt="shivam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShivamSharma731&custom_title=Jay's%20Contribution%20Graph&theme=react-dark" /></a>
+
 
 
 <hr/>

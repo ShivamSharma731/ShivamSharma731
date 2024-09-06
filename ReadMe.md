@@ -15,7 +15,7 @@
 <hr/>
 
 ##  Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSharma731&theme=algolia" alt="jaypavasiya" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSharma731&theme=algolia" alt="shivamStreak" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSharma731&theme=algolia&layout=compact" alt="jaypavasiya" /></p>
 
 <br>

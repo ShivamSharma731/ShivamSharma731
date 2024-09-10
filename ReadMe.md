@@ -55,7 +55,7 @@
 
 <hr/>
 
-## ‍♀️ Let's Connect
+## Let's Connect
 <p align="center">
   <a href="mailto:shivamsharma3172004@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
   <a href="https://github.com/ShivamSharma731"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>

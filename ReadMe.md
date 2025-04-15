@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Shivam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/jaypavasiya">
+  <a href="https://github.com/ShivamSharma317">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Java%20|%20JavaScript%20|%20MERN%20Enthusiast;%20Web+Developer%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
@@ -16,7 +16,7 @@
 
 ##  Streak Stats & Languages
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSharma731&theme=algolia" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSharma731&theme=algolia&layout=compact" alt="jaypavasiya" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSharma731&theme=algolia&layout=compact" alt="Shivam Sharma" /></p>
 
 <br>
 <hr/>
@@ -55,8 +55,8 @@
 <br>
 <div align="center">
   <img src="github-snake.svg" alt="Snake animation" width="100%"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rr3s1&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Shivam's GitHub Stats" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rr3s1&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Shivam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamSharma731&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Shivam's GitHub Stats" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSharma731&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Shivam's GitHub Stats" />
 </div>
 
 <br>

@@ -47,21 +47,19 @@
 
 <hr/>
 
+
+
+## 
+  <br>
+
 <br>
 <div align="center">
   <img src="github-snake.svg" alt="Snake animation" width="100%"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rr3s1&theme=react&show_icons=true&hide_border=true&count_private=true" alt="rr3s1's GitHub Stats" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=rr3s1&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Shivam's GitHub Stats" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rr3s1&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Shivam's GitHub Stats" />
 </div>
 
 <br>
-
-## 
-  <br>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/ShivamSharma731/ShivamSharma731/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
-
 <hr/>
 
 ## Let's Connect

@@ -124,7 +124,7 @@ Feel free to explore my repositories to see my projects and coding journey!
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShivamSharma731/ShivamSharma731/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShivamSharma731/ShivamSharma731/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShivamSharma731/ShivamSharma731/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="github-snake.svg">
   </picture>
 </div>
 
@@ -143,20 +143,14 @@ Feel free to explore my repositories to see my projects and coding journey!
   <a href="https://twitter.com/Shivam7314">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/shivamsharma_731">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discord.gg/username">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://t.me/username">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://leetcode.com/ShivamSharma731/">
+  
+
+
+  <a href="https://leetcode.com/u/ShivamTech731/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://www.hackerrank.com/username">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  <a href="[https://www.hackerrank.com/username](https://www.codechef.com/users/shiv_5465)">
+    <img src="https://img.shields.io/badge/CodeChef-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="CodeChef"/>
   </a>
 </div>
 

@@ -124,7 +124,7 @@ Feel free to explore my repositories to see my projects and coding journey!
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShivamSharma731/ShivamSharma731/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShivamSharma731/ShivamSharma731/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShivamSharma731/ShivamSharma731/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -135,4 +135,35 @@ Feel free to explore my repositories to see my projects and coding journey!
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/ShivamSharma731">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=gith
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shivam-sharma-507baa284">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/Shivam7314">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/shivamsharma_731">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discord.gg/username">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://t.me/username">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://leetcode.com/ShivamSharma731/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/username">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100" height="100">
+  <br>
+  <b>Thanks for visiting my profile! Feel free to star ⭐ some repositories if you find them interesting.</b>
+</div>

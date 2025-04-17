@@ -74,23 +74,14 @@
   <tr>
     <td><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="Java Icon" width="100"></td>
     <td style="width: 50px;"></td>
-    <td><img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="AWS Icon" width="100"></td>
+    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="AWS Icon" width="100"></td>
     <td style="width: 50px;"></td>
     <td><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Icon" width="100"></td>
     <td style="width: 50px;"></td>
     <td><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API Icon" width="100"></td>
   </tr>
 
-  <!-- Row 3 -->
-  <tr>
-    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Icon" width="100"></td>
-    <td style="width: 50px;"></td>
-    <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker Icon" width="100"></td>
-    <td style="width: 50px;"></td>
-    <td><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes Icon" width="100"></td>
-    <td style="width: 50px;"></td>
-    <td><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx Icon" width="100"></td>
-  </tr>
+
 </table>
 
 

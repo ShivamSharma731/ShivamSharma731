@@ -124,7 +124,7 @@ Feel free to explore my repositories to see my projects and coding journey!
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShivamSharma731/ShivamSharma731/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShivamSharma731/ShivamSharma731/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShivamSharma731/ShivamSharma731/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="github-snake.svg">
   </picture>
 </div>
 

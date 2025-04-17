@@ -11,9 +11,6 @@
 ## <div align="center">About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></div>
 
 <div align="center">
-  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</div>
-
 I'm a web developer passionate about MERN stack technologies. I enjoy creating engaging and user-friendly web applications that solve real-world problems. Currently, I'm focused on mastering data structures and algorithms with Java to build more efficient solutions and improve my problem-solving skills.
 
 - 🔭 I'm currently working on **enhancing my full-stack development skills**
@@ -22,6 +19,7 @@ I'm a web developer passionate about MERN stack technologies. I enjoy creating e
 - ⚡ Fun fact: **Code is like humor. When you have to explain it, it's bad!**
 
 Feel free to explore my repositories to see my projects and coding journey!
+</div>
 
 ## <div align="center">💻 Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></div>
 

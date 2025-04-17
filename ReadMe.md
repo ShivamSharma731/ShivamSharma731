@@ -99,10 +99,7 @@ Feel free to explore my repositories to see my projects and coding journey!
     <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,nextjs,git,github&perline=8" />
   </div>
   
-  <!-- Animated Dev Stats -->
-  <div>
-    <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ShivamSharma731&hide=html&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  </div>
+ 
 
 </div>
 

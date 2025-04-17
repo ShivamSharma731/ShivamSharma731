@@ -110,9 +110,7 @@ Feel free to explore my repositories to see my projects and coding journey!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSharma731&theme=tokyonight&hide_border=true" alt="Shivam's GitHub Streak" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSharma731&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Shivam's Top Languages" width="48%" />
-</div>
+
 
 ## 🏆 GitHub Trophies
 

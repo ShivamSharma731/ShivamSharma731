@@ -72,7 +72,7 @@
 
   <!-- Row 2 -->
   <tr>
-    <td><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Java Icon" width="100"></td>
+    <td><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="Java Icon" width="100"></td>
     <td style="width: 50px;"></td>
     <td><img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="AWS Icon" width="100"></td>
     <td style="width: 50px;"></td>

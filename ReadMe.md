@@ -61,13 +61,13 @@
 <table>
   <!-- Row 1 -->
   <tr>
-    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Icon" width="100"></td>
+    <td><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="React Icon" width="100"></td>
     <td style="width: 50px;"></td>
-    <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript Icon" width="100"></td>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="TypeScript Icon" width="100"></td>
     <td style="width: 50px;"></td>
     <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Icon" width="100"></td>
     <td style="width: 50px;"></td>
-    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL Icon" width="100"></td>
+    <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="MySQL Icon" width="100"></td>
   </tr>
 
   <!-- Row 2 -->

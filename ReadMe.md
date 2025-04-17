@@ -147,7 +147,7 @@ Feel free to explore my repositories to see my projects and coding journey!
   <a href="https://leetcode.com/u/ShivamTech731/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="[https://www.hackerrank.com/username](https://www.codechef.com/users/shiv_5465)">
+  <a href="https://www.codechef.com/users/shiv_5465">
     <img src="https://img.shields.io/badge/CodeChef-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="CodeChef"/>
   </a>
 </div>

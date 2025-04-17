@@ -24,6 +24,7 @@ Feel free to explore my repositories to see my projects and coding journey!
 ## <div align="center">💻 Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></div>
 
 <table align="center">
+  <br>
   <tr>
     <td align="center" width="96">
       <a><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" /></a>

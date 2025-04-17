@@ -23,74 +23,112 @@ Feel free to explore my repositories to see my projects and coding journey!
 
 ## <div align="center">💻 Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></div>
 
-<div align="center">
-  
-  <!-- Animated Tech Icons Section -->
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <a href="#java">
-          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-        </a>
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <a href="#javascript">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <a href="#typescript">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        </a>
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <a href="#react">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        </a>
-        <br>React
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="#cpp">
-          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-        </a>
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <a href="#python">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        </a>
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <a href="#github">
-          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        </a>
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <a href="#restapi">
-          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-        </a>
-        <br>REST API
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Additional Skills with Animated Cards -->
-  <div>
-    <h3>Additional Skills</h3>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&logoWidth=25&labelColor=black" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=white&logoWidth=25" alt="Express.js" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&logoWidth=25" alt="Flutter" />
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=25" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=25" alt="Git" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=25" alt="VS Code" />
-  </div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" /></a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" /></a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" /></a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" /></a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" /></a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" /></a>
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /></a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" /></a>
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="48" height="48" /></a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="48" height="48" /></a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="48" height="48" /></a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" /></a>
+      <br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="48" height="48" /></a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="48" height="48" /></a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" /></a>
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" /></a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" /></a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="48" height="48" /></a>
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48" /></a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" /></a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48" /></a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="48" height="48" /></a>
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48" /></a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" /></a>
+      <br>Git
+    </td>
+  </tr>
+</table>
   
   <!-- Skill Bars Animation -->
   <div>

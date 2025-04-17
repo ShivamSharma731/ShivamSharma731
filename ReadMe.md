@@ -130,11 +130,7 @@ Feel free to explore my repositories to see my projects and coding journey!
   </tr>
 </table>
   
-  <!-- Skill Bars Animation -->
-  <div>
-    <h3>My Expertise</h3>
-    <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,nextjs,git,github&perline=8" />
-  </div>
+
   
   <!-- Activity Graph -->
   <br>

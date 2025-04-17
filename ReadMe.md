@@ -10,29 +10,101 @@ I'm a web developer passionate about MERN stack technologies. I enjoy creating e
 
 Feel free to explore my repositories to see my projects and coding journey!
 
-## Tech Stack
+## 💻 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div align="center">
+  
+  <!-- Animated Tech Icons Section -->
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#java">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        </a>
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <a href="#javascript">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <a href="#typescript">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <a href="#react">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        </a>
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <a href="#nodejs">
+          <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+        </a>
+        <br>Node.js
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#cpp">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+        </a>
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <a href="#python">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="#github">
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        </a>
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <a href="#restapi">
+          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+        </a>
+        <br>REST API
+      </td>
+      <td align="center" width="96">
+        <a href="#mysql">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        </a>
+        <br>MySQL
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Additional Skills with Animated Cards -->
+  <div>
+    <h3>Additional Skills</h3>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&logoWidth=25&labelColor=black" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=white&logoWidth=25" alt="Express.js" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&logoWidth=25" alt="Flutter" />
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=25" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=25" alt="Git" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=25" alt="VS Code" />
+  </div>
+  
+  <!-- Skill Bars Animation -->
+  <div>
+    <h3>My Expertise</h3>
+    <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,nextjs,git,github&perline=8" />
+  </div>
+  
+  <!-- Animated Dev Stats -->
+  <div>
+    <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ShivamSharma731&hide=html&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  </div>
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 ## GitHub Stats
 

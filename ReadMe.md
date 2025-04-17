@@ -44,17 +44,8 @@
   <img src="https://img.shields.io/badge/Next.js-13.4.0-blueviolet.svg" alt="Next.js">
   <img src="https://img.shields.io/badge/TypeScript-5.1.3-red.svg" alt="TypeScript">
 </p>
-<td>
-         <img src="./icons/devicon-plain--nextjs.png" alt="Next JS" style="width: 20px;">
-<img src="./icons/devicon--tailwindcss.png" alt="TailwindCSS" style="width: 20px;">
-            <img src="./icons/skill-icons--typescript.png" alt="TypeScript" style="width: 20px;">
-<img src="./icons/shadcn.png" alt="ShadCN" style="width: 20px;">
-<img src="./icons/motion.png" alt="Motion" style="width: 20px;">
-<img src="./icons/stripe.png" alt="Stripe Connect" style="width: 20px;">
-<img src="./icons/aws.png" alt="AWS" style="width: 20px;">  
-<img src="./icons/simple-icons--clerk.png" alt="Clerk" style="width: 20px;">
-      </td>
-<hr/>
+
+
 
 
 <div align="center">

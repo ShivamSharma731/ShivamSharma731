@@ -41,12 +41,12 @@ Feel free to explore my repositories to see my projects and coding journey!
         </a>
         <br>React
       </td>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
         <a href="#nodejs">
           <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
         </a>
         <br>Node.js
-      </td>
+      </td> -->
     </tr>
     <tr>
       <td align="center" width="96">
@@ -73,12 +73,12 @@ Feel free to explore my repositories to see my projects and coding journey!
         </a>
         <br>REST API
       </td>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
         <a href="#mysql">
           <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
         </a>
         <br>MySQL
-      </td>
+      </td> -->
     </tr>
   </table>
   

@@ -153,11 +153,8 @@ Feel free to explore my repositories to see my projects and coding journey!
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShivamSharma731/ShivamSharma731/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShivamSharma731/ShivamSharma731/output/github-contribution-grid-snake.svg">
-    <img src="github-snake.svg" alt="Snake animation" width="100%"/>
-  </picture>
+  <img src="github-snake.svg" alt="Snake animation" width="100%"/>
+  <br><br>
 </div>
 
 ## <div align="center">Let's Connect <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></div>

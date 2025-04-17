@@ -70,6 +70,7 @@
 
 ## GitHub Stats
 <hr>
+<p>
 <div align="center">
   <img src="github-snake.svg" alt="Snake animation" width="100%"/><br><br>
   
@@ -85,6 +86,7 @@
       src="https://github-profile-trophy.vercel.app/?username=ShivamSharma731&row=1&column=3&theme=algolia" alt="jaypavasiya" /></a>  </p>
 
 <br>
+</p>
 
 ## Let's Connect
 <p align="center">

@@ -72,9 +72,9 @@
 
   <!-- Row 2 -->
   <tr>
-    <td><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java Icon" width="100"></td>
+    <td><img src="https://techstack-generator.vercel.app/node-icon.svg" alt="Java Icon" width="100"></td>
     <td style="width: 50px;"></td>
-    <td><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS Icon" width="100"></td>
+    <td><img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="AWS Icon" width="100"></td>
     <td style="width: 50px;"></td>
     <td><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Icon" width="100"></td>
     <td style="width: 50px;"></td>

@@ -69,6 +69,8 @@
 <div align="center">
   <img src="github-snake.svg" alt="Snake animation" width="100%"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=ShivamSharma731&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Shivam's GitHub Stats" /> <br>
+  <br>
+  <hr>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSharma731&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Shivam's GitHub Stats" />
 </div>
 <br>

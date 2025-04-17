@@ -71,16 +71,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ShivamSharma731&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Shivam's GitHub Stats" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSharma731&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Shivam's GitHub Stats" />
 </div>
-
+<br>
 ##  Trophies
 <p align="center"> <a href="https://github.com/jaypavasiya"><img
       src="https://github-profile-trophy.vercel.app/?username=ShivamSharma731&row=1&column=3&theme=algolia" alt="jaypavasiya" /></a>  </p>
 
 <br>
-<hr/>
-
-<br>
-<hr/>
 
 ## Let's Connect
 <p align="center">

@@ -14,19 +14,8 @@
 <br>
 <hr/>
 
-##  Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSharma731&theme=algolia" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSharma731&theme=algolia&layout=compact" alt="Shivam Sharma" /></p>
 
-<br>
-<hr/>
 
-##  Trophies
-<p align="center"> <a href="https://github.com/jaypavasiya"><img
-      src="https://github-profile-trophy.vercel.app/?username=ShivamSharma731&row=1&column=3&theme=algolia" alt="jaypavasiya" /></a>  </p>
-
-<br>
-<hr/>
 
 
 
@@ -76,15 +65,19 @@
 </table>
 
 
-## 
-  <br>
-
 <br>
 <div align="center">
   <img src="github-snake.svg" alt="Snake animation" width="100%"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=ShivamSharma731&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Shivam's GitHub Stats" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSharma731&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Shivam's GitHub Stats" />
 </div>
+
+##  Trophies
+<p align="center"> <a href="https://github.com/jaypavasiya"><img
+      src="https://github-profile-trophy.vercel.app/?username=ShivamSharma731&row=1&column=3&theme=algolia" alt="jaypavasiya" /></a>  </p>
+
+<br>
+<hr/>
 
 <br>
 <hr/>

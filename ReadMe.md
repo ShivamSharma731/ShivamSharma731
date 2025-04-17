@@ -119,7 +119,7 @@ Feel free to explore my repositories to see my projects and coding journey!
 </div>
 
 <div align="center">
-  <img src="https://github.com/ShivamSharma731/ShivamSharma731/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <img src="github-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ## Let's Connect
